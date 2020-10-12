@@ -20,4 +20,4 @@ const RoomsList = ({ rooms }) => {
     );
 };
 
-export default RoomsList
+export default RoomsList;

@@ -7,4 +7,4 @@ export default function Loading() {
             <img src={loadingGif} alt="" />
         </div>
     );
-}
+};
