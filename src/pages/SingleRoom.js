@@ -29,7 +29,6 @@ export default class SingleRoom extends Component {
         }
         const {name, description, capacity, size, price, extras, breakfast, pets, images} = room;
         const [mainImg, ...defaultImages] = images;
-        // console.log(defaultImages);
 
         return (
             <>
