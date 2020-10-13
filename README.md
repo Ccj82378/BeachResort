@@ -16,10 +16,10 @@ npm start
 # Build for production
 npm run build
 ```
-![image](https://github.com/Ccj82378/Beach-Resort/blob/master/%E9%A0%90%E8%A6%BD%E5%9C%961.png)
+![image](https://github.com/Ccj82378/BeachResort/blob/master/preview_img/preview1.png)
 
-![image](https://github.com/Ccj82378/Beach-Resort/blob/master/%E9%A0%90%E8%A6%BD%E5%9C%962.png)
+![image](https://github.com/Ccj82378/BeachResort/blob/master/preview_img/preview2.png)
 
-![image](https://github.com/Ccj82378/Beach-Resort/blob/master/%E9%A0%90%E8%A6%BD%E5%9C%963.png)
+![image](https://github.com/Ccj82378/BeachResort/blob/master/preview_img/preview3.png)
 
-![image](https://github.com/Ccj82378/Beach-Resort/blob/master/%E9%A0%90%E8%A6%BD%E5%9C%964.png)
+![image](https://github.com/Ccj82378/BeachResort/blob/master/preview_img/preview4.png)
