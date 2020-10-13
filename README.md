@@ -3,7 +3,7 @@
 - React, React icons, React router dom
 - Build Roomfilter with Context API and Hooks
 - Filterable rooms by type, capacity, price, room size and extras
-- Response Website Design
+- Responsive Web Design
 ### Quick Start
 
 ```bash
