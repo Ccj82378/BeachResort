@@ -1,7 +1,7 @@
 ## BeachResort
 - HTML5, CSS3, Javascript 
 - ReactJS, React icons, React router dom, Styledcomponents
-- context API for state management 
+- Context API for state management 
 - Filterable rooms by type, capacity, price, room size and extras
 - Responsive web design
 ### Quick Start
