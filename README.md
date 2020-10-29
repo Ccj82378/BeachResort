@@ -1,7 +1,7 @@
 ## BeachResort
-- HTML5, CSS3, Javascript ES6
-- React, React icons, React router dom, Styledcomponents
-- Build roomfilter with context API and hooks
+- HTML5, CSS3, Javascript 
+- ReactJS, React icons, React router dom, Styledcomponents
+- context API for state management 
 - Filterable rooms by type, capacity, price, room size and extras
 - Responsive web design
 ### Quick Start
